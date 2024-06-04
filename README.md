@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Erick Romão 🖐️
 
-Back-end Web Developer com tecnologias e desenvolvimento de soluções eficientes.
+Desenvolvedor Back-end Web com foco em tecnologias e desenvolvimento de soluções eficientes.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r0mao1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick.romao/)
