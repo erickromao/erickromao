@@ -26,7 +26,7 @@ Uma API para gerenciar uma lista de tarefas, permitindo criar, ler, checkar se j
 
 ### API Books
 
-Uma API para gerenciar uma lista de livros, permitindo criar, ler, atualizar e deletar livros. Utiliza tecnologias modernas para garantir eficiência e segurança.
+Uma API para gerenciar uma lista de livros, permitindo criar, ler, atualizar e deletar livros. Utiliza tecnologias modernas para garantir eficiência.
 
 ## Como me encontrar
 
