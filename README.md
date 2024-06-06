@@ -20,6 +20,10 @@ Sou um desenvolvedor focado no back-end comprometido com criação de APIs efici
 
 ## Projetos Recentes
 
+### Chat tempo Real
+
+Uma aplicação feita totalmente no backend, utilizando o websocket para fazer a comunicação bidirecional. Permitindo que os usuários comunicassem através de um chat ao vivo.
+
 ### API To-Do List
 
 Uma API para gerenciar uma lista de tarefas, permitindo criar, ler, checkar se já foi feita, atualizar e deletar tarefas. Utiliza Node.js, Express.js e Knex.js para a conexão com o banco de dados.
