@@ -24,13 +24,15 @@ Sou um desenvolvedor focado no back-end comprometido com criação de APIs efici
 
 Esta aplicação backend utiliza WebSocket para permitir comunicação bidirecional, permitindo que os usuários se comuniquem através de um chat ao vivo.
 
+### API de Blog
+Essa API permite a criação de usuários, autenticação e operações CRUD autenticadas em posts.
+Além disso, os usuários podem curtir e comentar os posts.<br/><br/>
+Os comentários exibem o nome do autor, conteúdo e quantidade de curtidas. Também é possível
+filtrar posts por data e categoria.
+
 ### API To-Do List
 
 Uma API para gerenciar uma lista de tarefas, permitindo criar, ler, checkar se já foi feita, atualizar e deletar tarefas. Utiliza Node.js, Express.js e Knex.js para a conexão com o banco de dados.
-
-### API Books
-
-Uma API para gerenciar uma lista de livros, permitindo criar, ler, atualizar e deletar livros. Utiliza tecnologias modernas para garantir eficiência.
 
 ## Como me encontrar
 
