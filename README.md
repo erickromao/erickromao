@@ -20,7 +20,7 @@ Sou um desenvolvedor focado no back-end comprometido com criação de APIs efici
 
 ## Projetos Recentes
 
-### Aplicação de Chat em Tempo Real
+### Chat em Tempo Real
 
 Esta aplicação backend utiliza WebSocket para permitir comunicação bidirecional, permitindo que os usuários se comuniquem através de um chat ao vivo.
 
