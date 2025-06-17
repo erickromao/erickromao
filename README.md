@@ -1,6 +1,6 @@
 # Olá, eu sou o Erick Romão 👋
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://github.com/erickromao">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=erickromao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
@@ -10,7 +10,7 @@
 </p>
 
 ---
-
+-->
 ### 👨‍💻 Sobre Mim
 
 Desenvolvedor de software com foco em criar soluções robustas e eficientes utilizando o **ecossistema .NET** no back-end e desenvolver interfaces dinâmicas e ricas com **Angular** no front-end.
