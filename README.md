@@ -1,47 +1,53 @@
-### Olá! Meu nome é Erick Romão 🖐️
+# Olá, eu sou o Erick Romão 👋
 
-Desenvolvedor Back-end Web com foco em tecnologias e desenvolvimento de soluções eficientes.
+<p align="left">
+  <a href="https://github.com/erickromao">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=erickromao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/erickromao">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickromao&layout=compact&langs_count=8&theme=dracula"/>
+  </a>
+</p>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r0mao1/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick.romao/)
+---
 
-<!-- ## Tecnologias que eu uso no meu dia a dia
-<div style="display: inline_block"><br/>
-   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-   <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-   <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /><br><br>
-   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> -->
-   
-</div><br/>
+### 👨‍💻 Sobre Mim
 
-## Sobre Mim
+Desenvolvedor de software com foco em criar soluções robustas e eficientes utilizando o **ecossistema .NET** no back-end e desenvolver interfaces dinâmicas e ricas com **Angular** no front-end.
 
-Sou um desenvolvedor focado no back-end comprometido com criação de APIs eficientes. Busco constantemente aprimorar minhas habilidades e aprender novas tecnologias para enfrentar os desafios do desenvolvimento web.
+- 🔭 Atualmente desenvolvendo aplicações com C# e Angular.
+- 🌱 Buscando constantemente aprofundar meus conhecimentos em arquitetura de software e boas práticas.
+- 🐧 Confortável em ambientes de desenvolvimento e deploy **Linux**.
+- 📫 Como me encontrar: [erick.romao12@gmail.com](mailto:erick.romao12@gmail.com)
 
-## Projetos Recentes
+---
 
-### Chat em Tempo Real
+### 🚀 Tecnologias e Ferramentas
 
-Esta aplicação backend utiliza WebSocket para permitir comunicação bidirecional, permitindo que os usuários se comuniquem através de um chat ao vivo.
+Minha stack principal e ferramentas favoritas para o dia a dia.
 
-### API de Blog
-Essa API permite a criação de usuários, autenticação e operações CRUD autenticadas em posts.
-Além disso, os usuários podem curtir e comentar os posts.<br/><br/>
-Os comentários exibem o nome do autor, conteúdo e quantidade de curtidas. Também é possível
-filtrar posts por data e categoria.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,typescript,linux,git,github,neovim,vscode,azure" />
+  </a>
+</p>
 
-### API To-Do List
+---
 
-Uma API para gerenciar uma lista de tarefas, permitindo criar, ler, checkar se já foi feita, atualizar e deletar tarefas. Utiliza Node.js, Express.js e Knex.js para a conexão com o banco de dados.
+### 📌 Projetos de Estudo
 
-## Como me encontrar
+Abaixo estão alguns projetos que desenvolvi durante minha jornada de estudos em outras tecnologias. Eles foram fundamentais para solidificar minha base em lógica e desenvolvimento web. **Atualmente, meu foco profissional está no desenvolvimento com C# e Angular.**
 
-- **LinkedIn**: [r0mao1](https://www.linkedin.com/in/r0mao1/)
-- **Instagram**: [erick.romao](https://www.instagram.com/erick.romao/)
+| Projeto | Descrição | Link |
+|---|---|---|
+| **Portfólio Pessoal** | Meu portfólio anterior onde apresento minhas habilidades e projetos iniciais. | [Ver Repositório](https://github.com/erickromao/portfolio) |
+| **Chess Project** | Um jogo de xadrez funcional que roda no terminal, feito com Node.js para praticar lógica. | [Ver Repositório](https://github.com/erickromao/chess_project) |
 
-Sinta-se à vontade para entrar em contato comigo através das redes sociais acima. Estou sempre aberto a discutir novas oportunidades e colaborar em projetos interessantes.
+---
+
+### 📫 Onde me Encontrar
+
+<p align="left">
+<a href="mailto:erick.romao12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/SEU-USUARIO-AQUI/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
