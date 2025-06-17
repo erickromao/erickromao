@@ -18,7 +18,7 @@ Desenvolvedor de software com foco em criar soluções robustas e eficientes uti
 - 🔭 Atualmente desenvolvendo aplicações com C# e Angular.
 - 🌱 Buscando constantemente aprofundar meus conhecimentos em arquitetura de software e boas práticas.
 - 🐧 Confortável em ambientes de desenvolvimento e deploy **Linux**.
-- 📫 Como me encontrar: [erick.romao12@gmail.com](mailto:erick.romao12@gmail.com)
+- 📫 Como me encontrar: [erickromao58@gmail.com](mailto:erickromao58@gmail.com)
 
 ---
 
