@@ -28,7 +28,7 @@ Minha stack principal e ferramentas favoritas para o dia a dia.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,typescript,linux,git,github,neovim,vscode,azure" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,typescript,postgresql,linux,git,github,neovim" />
   </a>
 </p>
 
