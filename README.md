@@ -25,7 +25,7 @@ Minha Stack de Desenvolvimento.
 
 ### 📌 Projetos de Estudo
 
-Abaixo estão alguns projetos antigos que desenvolvi durante minha jornada de estudos em outras tecnologias. **Atualmente, meu foco profissional está no desenvolvimento com C# e Angular.**
+Abaixo estão alguns projetos antigos que desenvolvi durante minha jornada de estudos em outras tecnologias. **Atualmente, meu foco profissional está no desenvolvimento com .NET e Angular.**
 
 | Projeto | Descrição | Link |
 |---|---|---|
