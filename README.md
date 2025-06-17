@@ -13,7 +13,7 @@ Desenvolvedor de Software, **atuando profissionalmente** com o desenvolvimento d
 
 ### 🚀 Tecnologias e Ferramentas
 
-Minha stack principal e ferramentas favoritas para o dia a dia.
+Minha Stack de Desenvolvimento.
 
 <p align="left">
   <a href="https://skillicons.dev">
