@@ -1,21 +1,10 @@
 # Olá, eu sou o Erick Romão 👋
 
-<!-- <p align="left">
-  <a href="https://github.com/erickromao">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=erickromao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/erickromao">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickromao&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</p>
-
----
--->
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor de software com foco em criar soluções robustas e eficientes utilizando o **ecossistema .NET** no back-end e desenvolver interfaces dinâmicas e ricas com **Angular** no front-end.
+Desenvolvedor de Software, **atuando profissionalmente** com o desenvolvimento de aplicações no **ecossistema .NET** e **Angular**.
 
-- 🔭 Atualmente desenvolvendo aplicações com C# e Angular.
+- 💻 No meu dia a dia profissional, desenvolvo soluções de ponta a ponta, utilizando C# no back-end e Angular no front-end.
 - 🌱 Buscando constantemente aprofundar meus conhecimentos em arquitetura de software e boas práticas.
 - 🐧 Confortável em ambientes de desenvolvimento e deploy **Linux**.
 - 📫 Como me encontrar: [erickromao58@gmail.com](mailto:erickromao58@gmail.com)
