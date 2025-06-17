@@ -4,7 +4,7 @@
 
 Desenvolvedor FullStack, **atuando profissionalmente** com o desenvolvimento de aplicações no **ecossistema .NET** e **Angular**.
 
-- 💻 No meu dia a dia profissional, desenvolvo soluções de ponta a ponta, utilizando C# no back-end e Angular no front-end.
+<!-- - 💻 No meu dia a dia profissional, desenvolvo soluções de ponta a ponta, utilizando C# no back-end e Angular no front-end.-->
 - 🌱 Buscando constantemente aprofundar meus conhecimentos em arquitetura de software e boas práticas.
 - 🐧 Confortável em ambientes de desenvolvimento e deploy **Linux**.
 - 📫 Como me encontrar: [erickromao58@gmail.com](mailto:erickromao58@gmail.com)
