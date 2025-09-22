@@ -1,4 +1,4 @@
-# Olá, eu sou o Erick Romão 👋
+# Olá, meu nome é Erick Romão 👋
 
 ### 👨‍💻 Sobre Mim
 
