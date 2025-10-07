@@ -23,19 +23,6 @@ Minha Stack de Desenvolvimento.
 
 ---
 
-### 📌 Projetos de Estudo
-
-Abaixo estão alguns projetos antigos que desenvolvi durante minha jornada de estudos em outras tecnologias. **Atualmente, meu foco profissional está no desenvolvimento com .NET e Angular.**
-
-| Projeto | Descrição | Link |
-|---|---|---|
-| **API CRUD com Identity** | API robusta utilizando .NET, ASP.NET Core Identity, AutoMapper e PostgreSQL. | [Ver Repositório](https://github.com/erickromao/AspNetCore-Identity-Crud) |
-| **API de Anotações** | API em Node.js para criação e gerenciamento de notas com tags, links e busca. | [Ver Repositório](https://github.com/erickromao/api-creation-notes) |
-| **Pesquisa de Usuários** | Sistema web para pesquisa e listagem de usuários, desenvolvido com PHP e JavaScript. | [Ver Repositório](https://github.com/erickromao/sistema_pesquisa_usuario) |
-| **Chess Project** | Um jogo de xadrez funcional que roda no terminal, feito com Node.js para praticar lógica. | [Ver Repositório](https://github.com/erickromao/chess_project) |
-
----
-
 ### 📫 Onde me Encontrar
 
 <p align="left">
