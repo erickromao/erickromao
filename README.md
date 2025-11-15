@@ -16,7 +16,7 @@ Minha Stack de Desenvolvimento.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,typescript,postgresql,linux,git,github,neovim" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,figma,angular,typescript,postgresql,linux,git,github,neovim" />
   </a>
 </p>
 
